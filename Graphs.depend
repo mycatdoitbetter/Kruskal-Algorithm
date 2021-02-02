@@ -6,60 +6,60 @@
 1389200078 source:d:\pesquisa\publica��es\livros\livro estutura de dados em c\c�digos\projgrafo\main.c
 	<stdio.h>
 	<stdlib.h>
-	"Fork.h"
+	"Graphs.h"
 
 1389187366 source:d:\andre\pesquisa\publica��es\livros\livro estutura de dados em c\c�digos\projgrafo\main.c
 	<stdio.h>
 	<stdlib.h>
-	"Fork.h"
+	"Graphs.h"
 
 1388959456 d:\andre\pesquisa\publica��es\livros\livro estutura de dados em c\c�digos\projfork\grafo.h
 
 1389203656 source:d:\andre\pesquisa\publica��es\livros\livro estutura de dados em c\c�digos\projfork\grafo.c
 	<stdio.h>
 	<stdlib.h>
-	"Fork.h"
+	"Graphs.h"
 
 1388766717 source:e:\ertai\levar casa\temp\livro estutura de dados em c\c�digos\projgrafo\main.c
 	<stdio.h>
 	<stdlib.h>
-	"Fork.h"
+	"Graphs.h"
 
 1388766377 e:\ertai\levar casa\temp\livro estutura de dados em c\c�digos\projgrafforkfo.h
 
 1388766762 source:e:\ertai\levar casa\temp\livro estutura de dados em c\c�digos\projgrafforkfo.c
 	<stdio.h>
 	<stdlib.h>
-	"Fork.h"
+	"Graphs.h"
 
 1388955856 d:\pesquisa\publica��es\livros\livro estutura de dados em c\c�digos\projfork\grafo.h
 
 1392658366 source:d:\pesquisa\publica��es\livros\livro estutura de dados em c\c�digos\projfork\grafo.c
 	<stdio.h>
 	<stdlib.h>
-	"Fork.h"
+	"Graphs.h"
 
-1612234774 source:c:\users\andre\desktop\projgrafo\fork.c
+1612234774 source:c:\users\andre\desktop\projgrafo\graphs.c
 	<stdio.h>
 	<stdlib.h>
-	"Fork.h"
+	"Graphs.h"
 
-1612234774 c:\users\andre\desktop\projgrafo\fork.h
+1612234774 c:\users\andre\desktop\projgrafo\graphs.h
 
 1612234774 source:c:\users\andre\desktop\projgrafo\main.c
 	<stdio.h>
 	<stdlib.h>
-	"Fork.h"
+	"Graphs.h"
 
-1612235453 source:c:\users\andre\desktop\kruskal\fork.c
+1612235453 source:c:\users\andre\desktop\kruskal\graphs.c
 	<stdio.h>
 	<stdlib.h>
-	"Fork.h"
+	"Graphs.h"
 
-1612234774 c:\users\andre\desktop\kruskal\fork.h
+1612234774 c:\users\andre\desktop\kruskal\graphs.h
 
 1612234774 source:c:\users\andre\desktop\kruskal\main.c
 	<stdio.h>
 	<stdlib.h>
-	"Fork.h"
+	"Graphs.h"
 

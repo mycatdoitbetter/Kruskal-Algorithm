@@ -31,10 +31,10 @@
 		<Compiler>
 			<Add option="-Wall" />
 		</Compiler>
-		<Unit filename="Fork.c">
+		<Unit filename="Graphs.c">
 			<Option compilerVar="CC" />
 		</Unit>
-		<Unit filename="Fork.h" />
+		<Unit filename="Graphs.h" />
 		<Unit filename="main.c">
 			<Option compilerVar="CC" />
 		</Unit>
